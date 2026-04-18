@@ -32,11 +32,13 @@ Origen, Destino y Referencia.
 
 El `.txt` debe seguir este formato:
 
+```
 **Nombre:** Juan García
 **Teléfono:** 612 345 678
 **Origen:** Madrid
 **Destino:** Barcelona
 **Referencia:** 123
+```
 
 ## Importante
 
